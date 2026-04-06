@@ -105,6 +105,10 @@ export default function LandingPage() {
           id: "4",          title: "Une identité visuelle forte",          quote: "Ses portraits ne sont pas seulement des photos, ce sont de véritables récits de détermination.",          name: "Julie L.",          role: "Sportive",          imageSrc: "http://img.b2bpic.net/free-photo/young-sporty-man-wearing-sportswear-headband-looking-front-smiling-showing-thumbs-up-standing-white-wall_141793-96920.jpg"},
         {
           id: "5",          title: "Un professionnel de confiance",          quote: "Raphaël allie la technique à l'émotion comme personne. Le partenaire idéal pour tout projet sportif.",          name: "Kevin T.",          role: "Gérant",          imageSrc: "http://img.b2bpic.net/free-photo/impressed-young-pretty-sporty-girl-wearing-headband-wristbands-doing-ok-signs_141793-114979.jpg"},
+        {
+          id: "6",          title: "Au-delà des attentes",          quote: "J'ai été bluffé par sa capacité à capter l'ambiance unique de notre événement. Un vrai pro.",          name: "Thomas V.",          role: "Organisateur",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-young-man-wearing-casual-clothing_158595-5303.jpg"},
+        {
+          id: "7",          title: "Magique",          quote: "Raphael a su immortaliser les meilleurs moments de ma carrière sportive avec un talent inégalable.",          name: "Elodie F.",          role: "Athlète",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-young-woman-with-long-hair_158595-5310.jpg"}
       ]}
       title="Ce qu'ils disent"
     />
