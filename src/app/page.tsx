@@ -53,7 +53,7 @@ export default function LandingPage() {
         {
           text: "Contactez-moi",          href: "#contact"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/black-white-striped-pencil-black-white-blankets-leaf-shadow-beige-blank_23-2148296265.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515728572-nffvl0j9.jpg"
     />
   </div>
 
