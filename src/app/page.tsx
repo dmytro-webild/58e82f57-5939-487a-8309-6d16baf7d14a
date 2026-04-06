@@ -74,11 +74,11 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         {
-          title: "Portrait I",          description: "Portrait professionnel.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-ipdzbozo.jpg"},
+          title: "Portrait Élite",          description: "Des portraits qui capturent l'essence et la détermination de chaque athlète.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-ipdzbozo.jpg"},
         {
-          title: "Portrait II",          description: "Portrait professionnel.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-x5bckio3.jpg"},
+          title: "Action Pure",          description: "Saisir l'instant décisif où l'effort devient pure émotion.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-x5bckio3.jpg"},
         {
-          title: "Portrait III",          description: "Portrait professionnel.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-nyg8mfj3.png"},
+          title: "Focus Performance",          description: "Une vision artistique au service du dépassement de soi.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-nyg8mfj3.png"},
         {
           title: "Action Intense",          description: "Des moments figés en plein cœur de l'action.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880017-z4en3lf5.jpg"},
         {
@@ -92,19 +92,19 @@ export default function LandingPage() {
   <div id="testimonials" data-section="testimonials">
       <TestimonialCardTen
       textboxLayout="default"
-      description="Voici ce que nos clients pensent de nos services."
+      description="Voici ce que les sportifs et collaborateurs pensent de mon approche."
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          title: "Super service",          quote: "Des photos incroyables, Raphael sait exactement comment capturer le moment parfait.",          name: "Marc D.",          role: "Athlète",          imageSrc: "http://img.b2bpic.net/free-photo/young-sporty-man-wearing-sportswear-headband-doing-selfie-happy-positive-smiling-cheerfully_141793-37393.jpg"},
+          id: "1",          title: "Le souci du détail",          quote: "Raphaël possède ce talent rare de savoir anticiper le geste parfait. Un résultat toujours impressionnant.",          name: "Marc D.",          role: "Athlète",          imageSrc: "http://img.b2bpic.net/free-photo/young-sporty-man-wearing-sportswear-headband-doing-selfie-happy-positive-smiling-cheerfully_141793-37393.jpg"},
         {
-          id: "2",          title: "Professionnalisme",          quote: "Raphael est très professionnel et le résultat est toujours à la hauteur de nos attentes.",          name: "Sophie M.",          role: "Entraîneure",          imageSrc: "http://img.b2bpic.net/free-photo/pretty-attractive-young-mixed-race-model-with-large-afro-wearing-navy-jacket-her-naked-body-shorts_633478-1216.jpg"},
+          id: "2",          title: "Un œil d'expert",          quote: "Travailler avec Raphaël, c'est l'assurance d'une qualité artistique qui sublime la performance sportive.",          name: "Sophie M.",          role: "Entraîneure",          imageSrc: "http://img.b2bpic.net/free-photo/pretty-attractive-young-mixed-race-model-with-large-afro-wearing-navy-jacket-her-naked-body-shorts_633478-1216.jpg"},
         {
-          id: "3",          title: "Vitesse et qualité",          quote: "Il capture l'action avec une précision rare, un vrai plaisir de travailler avec lui.",          name: "Alex B.",          role: "Capitaine",          imageSrc: "http://img.b2bpic.net/free-photo/happy-young-elegant-man-smiling_23-2148332976.jpg"},
+          id: "3",          title: "Précision et vitesse",          quote: "Il capture l'action avec une fulgurance rare. Un vrai partenaire de choix pour immortaliser nos compétitions.",          name: "Alex B.",          role: "Capitaine",          imageSrc: "http://img.b2bpic.net/free-photo/happy-young-elegant-man-smiling_23-2148332976.jpg"},
         {
-          id: "4",          title: "Artistique",          quote: "Ses portraits sont magnifiques et reflètent parfaitement mon identité.",          name: "Julie L.",          role: "Sportive",          imageSrc: "http://img.b2bpic.net/free-photo/young-sporty-man-wearing-sportswear-headband-looking-front-smiling-showing-thumbs-up-standing-white-wall_141793-96920.jpg"},
+          id: "4",          title: "Une identité visuelle forte",          quote: "Ses portraits ne sont pas seulement des photos, ce sont de véritables récits de détermination.",          name: "Julie L.",          role: "Sportive",          imageSrc: "http://img.b2bpic.net/free-photo/young-sporty-man-wearing-sportswear-headband-looking-front-smiling-showing-thumbs-up-standing-white-wall_141793-96920.jpg"},
         {
-          id: "5",          title: "Recommandé",          quote: "Le meilleur photographe sportif avec qui nous avons collaboré.",          name: "Kevin T.",          role: "Gérant",          imageSrc: "http://img.b2bpic.net/free-photo/impressed-young-pretty-sporty-girl-wearing-headband-wristbands-doing-ok-signs_141793-114979.jpg"},
+          id: "5",          title: "Un professionnel de confiance",          quote: "Raphaël allie la technique à l'émotion comme personne. Le partenaire idéal pour tout projet sportif.",          name: "Kevin T.",          role: "Gérant",          imageSrc: "http://img.b2bpic.net/free-photo/impressed-young-pretty-sporty-girl-wearing-headband-wristbands-doing-ok-signs_141793-114979.jpg"},
       ]}
       title="Ce qu'ils disent"
     />
