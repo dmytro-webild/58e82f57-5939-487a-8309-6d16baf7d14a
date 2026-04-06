@@ -74,15 +74,15 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         {
-          title: "Portrait Élite",          description: "Des portraits qui capturent l'essence et la détermination de chaque athlète.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-ipdzbozo.jpg"},
+          title: "Portrait Élite",          description: "Un portrait serré capturé en lumière naturelle, révélant la concentration intense avant le départ.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-ipdzbozo.jpg"},
         {
-          title: "Action Pure",          description: "Saisir l'instant décisif où l'effort devient pure émotion.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-x5bckio3.jpg"},
+          title: "Action Pure",          description: "Le saut parfait : saisie au millième de seconde de l'extension maximale de l'athlète.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-x5bckio3.jpg"},
         {
-          title: "Focus Performance",          description: "Une vision artistique au service du dépassement de soi.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-nyg8mfj3.png"},
+          title: "Focus Performance",          description: "Le regard déterminé du sportif vers la ligne d'arrivée lors d'une session de sprint matinal.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-nyg8mfj3.png"},
         {
-          title: "Action Intense",          description: "Des moments figés en plein cœur de l'action.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880017-z4en3lf5.jpg"},
+          title: "Action Intense",          description: "Contraste saisissant entre la vitesse du mouvement et la netteté du visage en plein effort.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880017-z4en3lf5.jpg"},
         {
-          title: "Dynamisme",          description: "Capturer la vitesse et la détermination.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880017-6olxce3d.jpg"},
+          title: "Dynamisme",          description: "Capture cinétique du geste technique, soulignant la puissance et la maîtrise de l'athlète.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880017-6olxce3d.jpg"},
       ]}
       title="Mon Portfolio Action"
       description="Une sélection des meilleurs clichés d'action sportive et portraits."
