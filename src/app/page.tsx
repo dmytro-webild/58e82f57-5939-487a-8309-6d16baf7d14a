@@ -19,8 +19,8 @@ export default function LandingPage() {
         contentWidth="small"
         sizing="mediumLargeSizeMediumTitles"
         background="noise"
-        cardStyle="outline"
-        primaryButtonStyle="shadow"
+        cardStyle="glass-elevated"
+        primaryButtonStyle="primary-glow"
         secondaryButtonStyle="solid"
         headingFontWeight="semibold"
     >
@@ -59,7 +59,7 @@ export default function LandingPage() {
 
   <div id="about" data-section="about">
       <TextAbout
-      useInvertedBackground={false}
+      useInvertedBackground={true}
       title="Raphael Lavoie, photographe RLshooting"
       buttons={[
         {
@@ -93,7 +93,7 @@ export default function LandingPage() {
       <TestimonialCardTen
       textboxLayout="default"
       description="Voici ce que les sportifs et collaborateurs pensent de mon approche."
-      useInvertedBackground={false}
+      useInvertedBackground={true}
       testimonials={[
         {
           id: "1",          title: "Le souci du détail",          quote: "Raphaël possède ce talent rare de savoir anticiper le geste parfait. Un résultat toujours impressionnant.",          name: "Marc D.",          role: "Athlète",          imageSrc: "http://img.b2bpic.net/free-photo/young-sporty-man-wearing-sportswear-headband-doing-selfie-happy-positive-smiling-cheerfully_141793-37393.jpg"},
