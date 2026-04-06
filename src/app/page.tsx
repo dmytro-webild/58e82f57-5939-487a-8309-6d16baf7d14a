@@ -74,14 +74,18 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         {
-          title: "Action Sportive",          description: "Figer l'intensité et le mouvement de vos compétitions.",          imageSrc: "http://img.b2bpic.net/free-photo/dancer-doing-elegant-performing-art_23-2149144298.jpg"},
+          title: "Action Intense",          description: "Des moments figés en plein cœur de l'action.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880017-z4en3lf5.jpg"},
         {
-          title: "Portrait d'Athlète",          description: "Mettre en valeur votre personnalité au-delà du terrain.",          imageSrc: "http://img.b2bpic.net/free-photo/fit-young-woman-sportswear-posing_23-2148759026.jpg"},
+          title: "Dynamisme",          description: "Capturer la vitesse et la détermination.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880017-6olxce3d.jpg"},
         {
-          title: "Photos d'Événements",          description: "Couverture complète de vos matchs et tournois.",          imageSrc: "http://img.b2bpic.net/free-photo/male-graphic-designers-showing-pictures-his-coworkers-camera_1170-983.jpg"},
+          title: "Mouvement",          description: "L'art de figer l'effort physique.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880017-66f3ijb2.jpg"},
+        {
+          title: "Performance",          description: "Mettre en lumière vos plus grands exploits.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880018-dinlmx2t.jpg"},
+        {
+          title: "Émotion pure",          description: "L'expression de la victoire et du dépassement de soi.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880018-bvbdg053.jpg"},
       ]}
-      title="Mon Expertise"
-      description="Des clichés dynamiques et des portraits saisissants."
+      title="Mon Portfolio Action"
+      description="Une sélection des meilleurs clichés d'action sportive."
     />
   </div>
 
