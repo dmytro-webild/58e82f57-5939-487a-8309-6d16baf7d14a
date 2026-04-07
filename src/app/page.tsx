@@ -76,7 +76,7 @@ export default function LandingPage() {
         {
           title: "Portrait Élite",          description: "Un portrait serré capturé en lumière naturelle, révélant la concentration intense avant le départ.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-ipdzbozo.jpg"},
         {
-          title: "Action Pure",          description: "Le saut parfait : saisie au millième de seconde de l'extension maximale de l'athlète.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-x5bckio3.jpg"},
+          title: "Contenu vendeur ",          description: "Chaque photo est pensée pour capter l’attention, engager et renforcer ton image sur les réseaux.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-x5bckio3.jpg"},
         {
           title: "Focus Performance",          description: "Le regard déterminé du sportif vers la ligne d'arrivée lors d'une session de sprint matinal.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-nyg8mfj3.png"},
         {
