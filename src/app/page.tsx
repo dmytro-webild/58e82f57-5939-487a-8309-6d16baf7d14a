@@ -46,7 +46,7 @@ export default function LandingPage() {
       background={{
         variant: "gradient-bars"}}
       title="Donnez une nouvelle dimension à vos performances sportives"
-      description="Photographe sportif professionnel spécialisé en portrait et photos d'action. Raphael Lavoie transforme vos performances en art."
+      description="Photographe sportif professionnel spécialisé en portrait et photos d'action. Raphael Lavoie transforme vos performances en art. Contactez-moi au 514-965-2753 ou par email à raphael@formaxagency.net."
       buttons={[
         {
           text: "Voir mon travail",          href: "#features"},
@@ -122,7 +122,7 @@ export default function LandingPage() {
         variant: "plain"}}
       tag="Contact"
       title="Travaillons ensemble"
-      description="Pour toute demande, envoyez-moi un e-mail à raphael@formaxagency.net. Je vous répondrai dans les plus brefs délais."
+      description="Pour toute demande, contactez-moi au 514-965-2753 ou envoyez-moi un e-mail à raphael@formaxagency.net. Je vous répondrai dans les plus brefs délais."
       imageSrc="http://img.b2bpic.net/free-photo/black-spool-scissor-with-stacked-book-stacked-with-green-twig-against-white-background_23-2147924503.jpg"
       mediaAnimation="slide-up"
     />
@@ -141,6 +141,8 @@ export default function LandingPage() {
         },
         {
           title: "Contact",          items: [
+            {
+              label: "514-965-2753",              href: "tel:5149652753"},
             {
               label: "raphael@formaxagency.net",              href: "mailto:raphael@formaxagency.net"},
           ],
