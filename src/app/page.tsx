@@ -95,7 +95,7 @@ export default function LandingPage() {
       tag="Contact"
       title="Travaillons ensemble"
       description="Pour toute demande, contactez-moi au 514-965-2753 ou envoyez-moi un e-mail à raphael@formaxagency.net. Je vous répondrai dans les plus brefs délais."
-      imageSrc="http://img.b2bpic.net/free-photo/black-spool-scissor-with-stacked-book-stacked-with-green-twig-against-white-background_23-2147924503.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880018-bvbdg053.jpg"
       mediaAnimation="slide-up"
     />
   </div>
