@@ -74,7 +74,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         {
-          title: "Visibilité ",          description: "Un portrait serré capturé en lumière naturelle, révélant la concentration intense avant le départ.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-ipdzbozo.jpg"},
+          title: "Visibilité ",          description: "Des images optimisées pour performer, attirer plus de vues et donner plus de portée à ton contenu. ",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-ipdzbozo.jpg"},
         {
           title: "Contenu vendeur ",          description: "Chaque photo est pensée pour capter l’attention, engager et renforcer ton image sur les réseaux.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-x5bckio3.jpg"},
         {
