@@ -45,7 +45,7 @@ export default function LandingPage() {
       <HeroBillboardScroll
       background={{
         variant: "gradient-bars"}}
-      title="Capturez l'Action, Immortalisez l'Instant"
+      title="Donnez une nouvelle dimension à vos performances sportives"
       description="Photographe sportif professionnel spécialisé en portrait et photos d'action. Raphael Lavoie transforme vos performances en art."
       buttons={[
         {
@@ -80,8 +80,7 @@ export default function LandingPage() {
         {
           title: "Adaptation ",          description: "Je m’ajuste à ton style, ton équipe et ton environnement pour créer du contenu parfaitement aligné avec ton image. ",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775516040181-nyg8mfj3.png"},
         {
-          title: "Livraison rapide et efficace ",          description: "Des images livrées sans délai pour garder ton contenu toujours à jour.
- ",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880017-z4en3lf5.jpg"},
+          title: "Livraison rapide et efficace ",          description: "Des images livrées sans délai pour garder ton contenu toujours à jour.\n ",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880017-z4en3lf5.jpg"},
         {
           title: "Qualité professionnelle ",          description: "Capture cinétique du geste technique, soulignant la puissance et la maîtrise de l'athlète.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880017-6olxce3d.jpg"},
       ]}
