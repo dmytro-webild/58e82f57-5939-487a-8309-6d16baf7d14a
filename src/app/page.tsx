@@ -45,7 +45,7 @@ export default function LandingPage() {
       <HeroBillboardScroll
       background={{
         variant: "gradient-bars"}}
-      title="Donnez une nouvelle dimension à vos performances sportives"
+      title="Transformez vos performances en visibilité, en impact et en résultats. "
       description="Photographe sportif professionnel spécialisé en portrait et photos d'action. Raphael Lavoie transforme vos performances en art. Contactez-moi au 514-965-2753 ou par email à raphael@formaxagency.net."
       buttons={[
         {
