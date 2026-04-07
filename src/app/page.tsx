@@ -142,7 +142,7 @@ export default function LandingPage() {
         {
           title: "Contact",          items: [
             {
-              label: "raphael@rlshooting.com",              href: "mailto:raphael@rlshooting.com"},
+              label: "raphael@formaxagency.net",              href: "mailto:raphael@formaxagency.net"},
           ],
         },
       ]}
