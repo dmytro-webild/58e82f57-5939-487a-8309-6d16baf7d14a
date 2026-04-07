@@ -122,7 +122,7 @@ export default function LandingPage() {
         variant: "plain"}}
       tag="Contact"
       title="Travaillons ensemble"
-      description="Ready to capture your best performance? Start your booking process by sending a quick message below."
+      description="Pour toute demande, envoyez-moi un e-mail à raphael@formaxagency.net. Je vous répondrai dans les plus brefs délais."
       imageSrc="http://img.b2bpic.net/free-photo/black-spool-scissor-with-stacked-book-stacked-with-green-twig-against-white-background_23-2147924503.jpg"
       mediaAnimation="slide-up"
     />
