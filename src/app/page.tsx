@@ -86,6 +86,7 @@ export default function LandingPage() {
       ]}
       title="Mon Portfolio Action"
       description="Une sélection des meilleurs clichés d'action sportive et portraits."
+      tag="Notre savoir-faire"
     />
   </div>
 
