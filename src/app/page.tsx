@@ -122,7 +122,7 @@ export default function LandingPage() {
         variant: "plain"}}
       tag="Contact"
       title="Travaillons ensemble"
-      description="Vous avez un projet de shooting photo? Écrivez-moi pour discuter de vos besoins."
+      description="Ready to capture your best performance? Start your booking process by sending a quick message below."
       imageSrc="http://img.b2bpic.net/free-photo/black-spool-scissor-with-stacked-book-stacked-with-green-twig-against-white-background_23-2147924503.jpg"
       mediaAnimation="slide-up"
     />
