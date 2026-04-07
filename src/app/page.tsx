@@ -50,8 +50,6 @@ export default function LandingPage() {
       buttons={[
         {
           text: "Voir mon travail",          href: "#features"},
-        {
-          text: "Contactez-moi",          href: "#contact"},
       ]}
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515728572-nffvl0j9.jpg"
     />
