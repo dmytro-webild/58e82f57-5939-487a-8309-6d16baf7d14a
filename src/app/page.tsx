@@ -81,8 +81,8 @@ export default function LandingPage() {
         {
           title: "Qualité professionnelle ",          description: "Capture cinétique du geste technique, soulignant la puissance et la maîtrise de l'athlète.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C04CJHGaHzi07kJ6BAiFVaLf2A/uploaded-1775515880017-6olxce3d.jpg"},
       ]}
-      title="Mon Portfolio Action"
-      description="Une sélection des meilleurs clichés d'action sportive et portraits."
+      title="Mon Portfolio "
+      description="Ce que je vous apporte concrètement "
       tag="Notre savoir-faire"
     />
   </div>
